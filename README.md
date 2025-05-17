@@ -1,3 +1,43 @@
+# Full Stack Web Dev – Inventory, Rental & Ticketing
+
+This repository contains a collection of full-stack web applications developed as part of an academic module in Web Development. The project showcases a variety of skills using Next.js, MySQL, API routes, role-based access, and UI/UX design best practices.
+
+## 📦 Projects Included
+
+### 1. 🎟️ Cinema & Inventory Manager
+Manage cinema tickets and simple product inventory. Includes:
+- User registration
+- Ticket listing
+- Inventory display and manipulation
+
+### 2. 🔧 Appliance Tracker
+A CRUD-based system for managing household appliances:
+- Register users and appliances
+- Track purchase/warranty dates
+- Prevent duplicate serials
+- MySQL integration
+
+### 3. 🏡 Property Letting Platform
+A property rental platform with user roles:
+- Tenants can apply for properties
+- Landlords manage listings
+- Admin can view all users/applications
+- Full login, dashboard and access control
+
+## 🛠️ Technologies Used
+- Next.js (React framework)
+- MySQL
+- RESTful API routes
+- CSS Modules / Global Styles
+- Vercel (for deployment)
+
+## 🚀 Getting Started
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/gustav0fari4/Full-Stack-Web-Dev-Inventory-Rental-Ticketing.git
+cd Full-Stack-Web-Dev-Inventory-Rental-Ticketing
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
 
 ## Getting Started
