@@ -1,0 +1,54 @@
+/* Ensure body margin is reset */
+.body {
+  margin: 0;}
+
+/* Sticky Navbar */
+.navbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: #333;
+  color: white;
+  padding: 10px 0;
+  z-index: 1000;
+}
+
+/* Container Styling */
+.container {
+  min-height: 100vh;
+  background-color: #f3f4f6; /* Light gray */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding-top: 80px; /* Adjust this value depending on your navbar height */
+  text-align: center;
+}
+
+/* Heading and Paragraph Styling */
+.heading {
+  font-size: 2.5rem;
+  font-weight: bold;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.paragraph {
+  font-size: 1.2rem;
+  color: #666;
+  margin-top: 10px;
+}
+
+/* Responsive Styling */
+@media (max-width: 768px) {
+  .heading {
+    font-size: 2rem;
+  }
+  .paragraph {
+    font-size: 1rem;
+  }
+  .container {
+    padding-top: 90px; /* Adjust this value for mobile */
+  }
+}

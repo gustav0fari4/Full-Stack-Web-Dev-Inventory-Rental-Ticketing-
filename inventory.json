@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1746899567269,
+    "eircode": "D01FP44",
+    "applianceType": "Dishwasher",
+    "brand": "Sony",
+    "modelNumber": "123456",
+    "serialNumber": "123456",
+    "purchaseDate": "2025-05-03",
+    "warrantyDate": "2026-06-03"
+  },
+  {
+    "id": 1746899635578,
+    "eircode": "D01FP44",
+    "applianceType": "Dishwasher",
+    "brand": "Sony",
+    "modelNumber": "261715",
+    "serialNumber": "123456",
+    "purchaseDate": "2025-05-03",
+    "warrantyDate": "2026-05-03"
+  }
+]

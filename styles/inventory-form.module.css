@@ -1,0 +1,67 @@
+/* InventoryForm.module.css */
+
+.formContainer {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 2px 15px rgba(0, 0, 0, 0.1);
+  }
+  
+  .formTitle {
+    text-align: center;
+    color: #333;
+  }
+  
+  .formLabel {
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .inputField,
+  .selectField {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  
+  .submitButton {
+    display: block;
+    width: 100%;
+    padding: 12px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+  }
+  
+  .submitButton:hover {
+    background-color: #0056b3;
+  }
+  
+  .alert {
+    margin-bottom: 20px;
+    padding: 15px;
+    border-radius: 5px;
+  }
+  
+  .alertSuccess {
+    background-color: #d4edda;
+    color: #155724;
+  }
+  
+  .alertError {
+    background-color: #f8d7da;
+    color: #721c24;
+  }
+
+  .inputError {
+    border: 2px solid red;
+    background-color: #ffe6e6;
+  }
+  
+  
